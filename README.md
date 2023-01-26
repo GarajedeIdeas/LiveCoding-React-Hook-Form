@@ -10,5 +10,5 @@ En esta nueva sesión de live coding te presentamos React Hook Form, una librer�
 
 El objetivo es que, al final de la sesión, tengas claro cómo usar React Hook Form para gestionar formularios y reducir así la cantidad de código que escribes.
 
-✱ Todo esto de la mano de Gerardo Fernández, Senior Developer, formador, CTO y Cofundador en Legit.Health, aunque seguramente también le conozcas por sus recetas javascripteras en su canal de Youtube ["Latte and Code".](https://www.youtube.com/@LatteAndCode).
+✱ Todo esto de la mano de Gerardo Fernández, Senior Developer, formador, CTO y Cofundador en Legit.Health, aunque seguramente también le conozcas por sus recetas javascripteras en su canal de Youtube ["Latte and Code"](https://www.youtube.com/@LatteAndCode).
 
